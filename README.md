@@ -5,7 +5,7 @@
 
 An node.js library built to print png images with Brother QL-820NWBc Label Printers connected via USB.
 
-# NPM install
+# installation
 
 ```bash
 $ npm install brother-label-printer
