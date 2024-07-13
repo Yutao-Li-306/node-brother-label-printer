@@ -1,5 +1,8 @@
 # brother-label-printer
 
+[![NPM](https://nodei.co/npm/node-brother-label-printer?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/node-brother-label-printer)
+[![npm version](https://badge.fury.io/js/node-brother-label-printer.svg)](https://www.npmjs.com/package/node-brother-label-printer)
+
 An node.js library built to print png images with Brother QL-820NWBc Label Printers connected via USB.
 
 # NPM install
