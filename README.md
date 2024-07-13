@@ -1,14 +1,14 @@
-# brother-label-printer
+# node-brother-label-printer
 
 [![NPM](https://nodei.co/npm/node-brother-label-printer.png)](https://nodei.co/npm/node-brother-label-printer/)
 [![npm version](https://badge.fury.io/js/node-brother-label-printer.svg)](https://www.npmjs.com/package/node-brother-label-printer)
 
 An node.js library built to print png images with Brother QL-820NWBc Label Printers connected via USB.
 
-# installation
+# Installation
 
 ```bash
-$ npm install brother-label-printer
+$ npm install node-brother-label-printer
 ```
 
 ## How to print a PNG file
@@ -16,7 +16,7 @@ $ npm install brother-label-printer
 First, you will need the **VendorID (VID)** and **ProductID (PID)** of your printer. You can download and use the [Zadig](http://sourceforge.net/projects/libwdi/files/zadig/) tool to identify the PID and VID of your connected usb brother label printer if you don't know it. Next you will need a PNG file to print. Currently PNG is the only file format this library supports.
 
 ```javascript
-const brother = require("brother-label-printer");
+const brother = require("node-brother-label-printer");
 const VID = 0x04f9;
 const PID = 0x209d;
 
