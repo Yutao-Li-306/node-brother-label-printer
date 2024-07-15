@@ -64,4 +64,4 @@ Thanks to our contributors! 🎉👏
 - [Yiqun Xu](https://github.com/yiqun12)
 - [Yutao Li](https://github.com/Yutao-Li-306)
 
-Special thanks to driehle for the image bit conversion algorithm provided from the work in his repo [here](https://github.com/driehle/node-brother-label-printer).
+Special thanks to [driehle](https://github.com/driehle) for the image conversion algorithm provided from his repo [here](https://github.com/driehle/node-brother-label-printer).
